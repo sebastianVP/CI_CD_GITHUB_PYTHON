@@ -1,4 +1,4 @@
-c**CAP 1:DEVOPS CONTINUOS INTEGRATION/CONTINUOS DEPLOYMENT**
+**CAP 1:DEVOPS CONTINUOS INTEGRATION/CONTINUOS DEPLOYMENT**
 ---
 **Overview in 100 seconds:**
 DevOps es un conjunto de instrucciones para construir tests y publicar el codigo en una cantidad pequeña de pasos.
@@ -45,3 +45,4 @@ jobs:
     -  run: npm run build              test,build, deploy
     -  run: npm run deploy    
 ```
+**CAP 2: GITHUB ACTIONS**
